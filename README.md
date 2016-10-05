@@ -14,7 +14,7 @@ There is no shortage of resume templates, and a moderate number of them are real
 
 ## Installation
 
-For novice TeX users, it is highly recommended to use [Overleaf](https://www.overleaf.com/), a fascinating online TeX editor. The installation is as simple as downloading presento and uploading to Overleaf as a new project. Disclaimer: I am an external [advisor](https://www.overleaf.com/advisors) to Overleaf and often [advocate](https://www.overleaf.com/blog/267-overleaf-advisor-of-the-month-ratul-saha) for TeX and Overleaf. 
+For novice TeX users, it is highly recommended to use [Overleaf](https://www.overleaf.com/), a fascinating online TeX editor. Using it is as easy as clicking on the "Open as Template" button from [this Gallery item page](https://www.overleaf.com/read/pbmdkzjfvjkw). Disclaimer: I am an external [advisor](https://www.overleaf.com/advisors) to Overleaf and often [advocate](https://www.overleaf.com/blog/267-overleaf-advisor-of-the-month-ratul-saha) for TeX and Overleaf. 
 
 To use presento in your local computer, install XeTeX and the compulsory packages listed below. These mostly come as part of the popular TeX engines like [MiKTeX](http://miktex.org/).
 
