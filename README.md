@@ -3,7 +3,7 @@ Minimal-Resume
 
 Minimal-Resume is a one-column and clean resume template for professional usage. It supports XeTeX. XeTeX is a TeX typesetting engine that can be [thought](http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it) of as standard LaTeX (pdftex) with support for Open Type Fonts. The demo PDF is included in the project.
 
-##Why yet another resume template?
+## Why yet another resume template?
 
 There is no shortage of resume templates, and a moderate number of them are really good. Nonetheless, Minimal-Resume sports a number of unique features:
 
@@ -31,7 +31,7 @@ The fonts used are under SIL Open Font License which means they are free to use 
 
 The fonts and their usage are already baked into the template. However for custom use (by experts only), the following LaTeX commands (without any arguments) are provided: `\montserratfont`, `\crimsonfont`.
 
-##Custom environments
+## Custom environments
 
 The custom environments are self-explanatory from the demo.
 
